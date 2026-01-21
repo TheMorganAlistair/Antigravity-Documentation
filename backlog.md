@@ -1,1 +1,3 @@
 - [ ] Footnotes with wikilinks to previous / next documents
+- [ ] Mermaid diagrams
+- [ ] Vectorize
