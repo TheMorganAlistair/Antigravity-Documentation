@@ -1,0 +1,1 @@
+- [ ] Footnotes with wikilinks to previous / next documents

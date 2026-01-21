@@ -1,0 +1,1 @@
+This directory contains fragments of subject information acquired through the personal usage of the tool. 
